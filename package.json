@@ -15,7 +15,7 @@
   "license": "MIT",
   "dependencies": {
     "object-assign": "4.1.1",
-    "when": "3.7.7"
+    "when": "3.7.8"
   },
   "engines": {
     "node": ">= 0.10.0"
