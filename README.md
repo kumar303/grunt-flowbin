@@ -1,5 +1,7 @@
 # grunt-flowbin
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/kumar303/grunt-flowbin.svg)](https://greenkeeper.io/)
+
 This is a thin [grunt](http://gruntjs.com/) wrapper around the
 [flow-bin](https://github.com/flowtype/flow-bin/) command line tool.
 
