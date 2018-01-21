@@ -33,6 +33,6 @@
     "load-grunt-configs": "^1.0.0",
     "load-grunt-tasks": "^3.5.2",
     "mocha": "^3.3.0",
-    "sinon": "^2.2.0"
+    "sinon": "^4.2.0"
   }
 }
