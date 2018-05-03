@@ -3,6 +3,7 @@ sudo: false
 node_js:
 - '4'
 - '6'
+- '10'
 before_install:
 - npm install -g npm
 script: npm test
