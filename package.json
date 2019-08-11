@@ -27,7 +27,7 @@
   ],
   "devDependencies": {
     "chai": "^3.5.0",
-    "flow-bin": "^0.45.0",
+    "flow-bin": "^0.105.1",
     "grunt": "^1.0.1",
     "grunt-mocha-test": "^0.13.2",
     "load-grunt-configs": "^1.0.0",
